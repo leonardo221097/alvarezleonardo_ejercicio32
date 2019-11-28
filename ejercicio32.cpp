@@ -3,7 +3,7 @@
 #include <cmath>
 using namespace std;
 
-// para realizar este ejercicio me guié de loas condiciones del libro de Landau capitulo 18.
+// para realizar este ejercicio me guié de las condiciones para inicializar la matriz del libro de Landau capitulo 18.
 int main(){
 	// condiciones iniciale dadas en el libro y dadas en clase
  float rho=0.01;
